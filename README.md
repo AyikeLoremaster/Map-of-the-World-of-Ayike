@@ -2,7 +2,7 @@ Welcome to the GitHub repository for AyikeLoremaster's supplemental worldbuildin
 
 File summary below:
 
-ayike map.pdn: Master multi-layer image file that can be opened via paint,net.
+ayike map.ora: Master multi-layer image file that can be opened via paint,net.
 Bottom layer is the locations map from EUV, a grand strategy game made by Paradox Interactive.
 The 2nd layer is a basic land-and-water layer.
 The 3rd layer has the geographic extents of all 288 countries, on land.

@@ -14,3 +14,5 @@ ayike map.png: Single layer png file that shows all 288 countries, with labels.
 timeline.txt: Text document detailing over 600 years of geopolitical history. Has plenty of opprtunity for more detail.
 
 README.md: You're looking at it right now. Self-explanatory.
+
+Nations: Within this folder are folders for individual nations. Currently only has a folder for Xiongmao (containing the flag of Xiongmao), and a folder for Zootopia (containing the Constitution of the Republic of Zootopia). Feel free to add your own stuff here!

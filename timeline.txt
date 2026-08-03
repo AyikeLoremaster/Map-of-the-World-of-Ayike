@@ -9,6 +9,8 @@ From ~930k BGP to ~11k BGP: THE SAVAGE ERA
 	The resulting severe winter(s) make for a series of unusually severe ice ages; However, they're not severe enough to be an major extinction event. Instead, the more difficult environment forces mammals to evolve towards sapience rather rapidly, or die.
 	~930k BGP to ~70k BGP: Evolution of bipedalism, longer lifespans, opposable appendages, increased brainpower, and more across all land mammals - with brainpower levels rising to levels similar to what homo sapiens would be at by this point.
 		For unknown evolutionary reasons, Midnicampium Holicithias evolves in this timeframe. Maybe because of rabbits?
+		Rabbits in particular go through massive changes thanks to retroviruses changing how their guts work to normalize them towards more normal behavior along with other species. In addition, rabbits wind up needing sugar and other high energy food sources for sustaining powerful brains. This all leads to rabbits growing more adapted to eating carrots and other rich root vegetables.
+	Thousands of species of mammal that are all similar to each other all either breed together or outcompete each other, leading to only one or two species per commonly named type of mammal.
 	~74k BGP: THE GREAT AWAKENING
 		Toba erupts with an intensity of VEI 9. Famines set in around the world, with Africa being particularly badly hit.
 			Some unsuspecting mammal consumes psychoactive susbstances as a desperate measure to sate hunger. This mammal becomes the first fully sapient mammal on the planet.
@@ -320,7 +322,7 @@ Era of Industrialization
 			After the war - and a series of revolutions - the Republics of Guazabari, Cachicamu, Buia, Wasehat, Chiguiria, and Kiskey all join the coalition.
 		Baquiria undergoes a violent revolution, becoming a republic.
 			The United Islands of Kudhari gains independence
-			The Consolidated Reefs of Bulhaa gains independence
+			The Consolidated Reefs of Bulhaa is released as a vassal of Kudhari
 	European Chaos:
 		New Zoohaven Wars of Unification: From the main part of Britain, the largest kingdom unifies the British Isles by conquering South England and conquering Ireland.
 		Luvian Revolution: The Kingdom of Luvia is abolished and replaced with the Republic of Luvia.

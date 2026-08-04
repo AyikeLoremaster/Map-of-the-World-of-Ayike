@@ -15,4 +15,4 @@ timeline.txt: Text document detailing over 600 years of geopolitical history. Ha
 
 README.md: You're looking at it right now. Self-explanatory.
 
-Nations: Within this folder are folders for individual nations. Currently only has folders for the flags of Xiongmao, Inurakun, Hakin, Melrakkia, and a folder for the Constitution of the Republic of Zootopia. Feel free to add your own stuff here!
+Nations: Within this folder are folders for individual nations. Currently only has folders for the flags of Xiongmao, Inurakun, Hakin, Melrakkia, and a folder for the Constitution of the Republic of Zootopia. Xiongmao's folder also has the flags of Yetu and Milu. Feel free to add your own stuff here!

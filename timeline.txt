@@ -61,7 +61,7 @@ Era of the Empty World: The New World starts to explore the Old World.
 ~42 AGP: Massive colonization efforts begin by various well-organized New World countries.
 ~50 AGP: Massive earthquakes near the border of Nigig and Cese'eihia.
 54 AGP: Massive earthquake destroys towns throughout central Lupuru, killing over a hundred thousand mammals! Due to this being in living memory of the Great Plague, the region is nearly completely depopulated...
-~63 AGP: The Lionhearts are discovered and abducted to near Zoohaven by pirates.
+~63 AGP: The Lionhearts are discovered and abducted to near Zoohaven by pirates. Likely port they visited would be now known as Buccaneer's Rest.
 79 AGP: Devastating earthquake wipes out all mammals on Rhodes. 100 thousand dead.
 ~80 AGP: The rise of a competent general in Mongolia causes the creation of a notable steppe empire.
 ~84 AGP: Zoohaven's First War Of Expansion - King Fenris the Great of the Crookfang Dynasty expands the Kingdom's borders to encapsulate the shores of all five Great Lakes
@@ -83,16 +83,16 @@ Era of Evangelism
 
 ~150 - 168 AGP: 20 Years War/Holy Wars; Wars between Christianity and Paganism cause continuing tensions between rival religions. These conflicts ultimately lead to some reductions in population. 
 	Marsupalk is fully colonized, but ethnic and religious tensions promise problems in the future.
-		The steppe empire from before collapses due to a lack of social institutions.
-			The Nomadic Council of Kaviko gains independence
-			The Tribal Council of Barys gains independence
-			The Tribal Council of Kuralaia gains independence
-			The Tribal Council of Argale gains independence
-			The Tribal Council of Celakia gains independence
-		King Silas III the Great of the Crookfang Dynasty leads an enormous naval campaign to rid the north of pirates.
-			Nisktaku is taken. Much to Silas' surprise, there's a vast city at the center of the island. Silas declares it the Capital of 			the Kingdom of Zoohaven.
-			The entire east is subjugated by naval dominance. Port cities with the Zoohavenish flag get connected by roads. The modern 				borders of Zoohaven finally start emerging.
-				The Kingdom is reorganized into ten constituent grand principalities, each of which is comprised of a series 						of duchies, each of which is in turn comprised of a series of counties.
+	The steppe empire from before collapses due to a lack of social institutions.
+		The Nomadic Council of Kaviko gains independence
+		The Tribal Council of Barys gains independence
+		The Tribal Council of Kuralaia gains independence
+		The Tribal Council of Argale gains independence
+		The Tribal Council of Celakia gains independence
+	King Silas III the Great of the Crookfang Dynasty leads an enormous naval campaign to rid the north of pirates.
+		Nisktaku is taken. Much to Silas' surprise, there's a vast city at the center of the island. Silas declares it the new capital of the Kingdom of Zoohaven.
+		Silas recognizes the strategic value of where Buccaneer's Rest is, and decides that it should be a permanent major naval outpost of Zoohaven.
+		The entire east is subjugated by naval dominance. Port cities with the Zoohavenish flag get connected by roads. The modern borders of Zoohaven finally start emerging.
 154 AGP: A massive earthquake kills millions of mammals in interior areas of Xiongmao! Several Xiongmaoi states collapse entirely thanks to this.
 
 Era of Clashing Beliefs
@@ -111,7 +111,7 @@ Era of Global War
 	Part of the Zoohavenish chaos is that King Lupus the Ambitious colonizes the British Isles, only for King Wergar the Terrible to order the abduction of all inhabitants of the British Isles to the Zoohavenish mainland. The overpopulation is the final straw for the kingdom, as the Lionhearts rise up in direct reaction to being abducted.
 	The Toronese Kingdom gains independence
 	The Kingdom of Marsupalk gains independence
-		Immediately after Marsupalk gains independence, they start seeking to convince Kallillia that they should be their ally. This never 			goes anywhere due to a perpetual lack of converging interests, but it is nontheless a running gag on the political world stage.
+		Immediately after Marsupalk gains independence, they start seeking to convince Kallillia that they should be their ally. This never goes anywhere due to a perpetual lack of converging interests, but it is nontheless a running gag on the political world stage.
 	The Kingdom of Vontsira gains independence
 	The Kingdom of Baghae gains independence
 	The Kingdom of Tindustan gains independence
@@ -177,9 +177,9 @@ Era of Enlightenment
 266 AGP: Massive earthquake in northern Anatolia destroys villages completely and kills tens of thousands.
 275 AGP: Large earthquake strikes Inurakun. 1500 dead.
 
-277 AGP: Due to a lack of trust in the new Lionheart Dynasty, dukes and counts in the Grand Principality of Wanen attempt a pyramid scheme. When this results in a lapine servant being abducted to Lionheart Castle at Nishtaku, King Leodore II immediately orders an investigation. Upon the discovery of the pyramid scheme, the King issues a royal decree abolishing the Grand Principality of Wanen, replacing it with the Commonwealth of Triburrow. All consituent duchies are abolished and replaced with "Boroughs." Arrest warrants are issued upon all of the nobles involved (including the Prince himself). The servant was able to return to her home. This incident becomes known as the Lapine Pyramid Scandal, and it is one of the most important historical events in all of Ayike's history!
+277 AGP: Due to a lack of trust in the new Lionheart Dynasty, barons, counts, and the Duke of the Duchy of Taskinan attempt a pyramid scheme. When this results in a rabbit servant being abducted to Lionheart Castle at Nishtaku, King Leodore II immediately orders an investigation. Upon the discovery of the pyramid scheme, the King issues a royal decree abolishing the Duchy of Taskinan, replacing it with the Commonwealth of Taskinan. All constituent fiefdoms are abolished and replaced with constituent counties with republic-style elections. Arrest warrants are issued upon all of the nobles involved (including the Duke himself). The servant was able to return to her home. This whole incident becomes known as the Lapine Pyramid Scandal, and it is one of the most important historical events in all of Ayike's history!
 
-285 AGP: Great Q'qaranian earthquake kills 15 thousand people. 
+285 AGP: Great Q'aranian earthquake kills 15 thousand people. 
 
 ~294 AGP: Contentious Civics Breakthrough
 	The following kingdoms reform into Republics: 
@@ -192,7 +192,7 @@ Era of Enlightenment
 		Umkhombia.
 	Funostan reforms into an oligarchy.
 	Chikopania decentralizes, thus forming a chiefdom
-	The success of the Commonwealth of Triburrow causes a pro-democracy movement to form in the Kingdom of Zoohaven.
+	The success of the Commonwealth of Taskinan causes a peaceful pro-democracy movement to form in the Kingdom of Zoohaven.
 
 Era of the Frontiers of Science
 	298 AGP: Massive earthquake destroys Swewio. The damage is severe enough for everywhere east of the Cascade Mountains to declare independence as the Kingdom of Mowitchu.
@@ -416,7 +416,7 @@ Era of Industrialization
 		Kingdom of Nguruwechin collapses, is replaced by 2nd Kingdom of Nguruwechin. (Dynastic cycle)
 		Dameeri Unification: Due to global chaos, the various tribes of Somalia that all identify as Dameeri unite, thereby forming the Tribal Coalition of Dameerio.
 		Funostani Reforms: Oligarchs of Funostan willingly give in to widespread protests - Oligarchy of Funostan reforms into the Confederation of Funostan. The protests were sparked by fears of uncertain leadership against perceived threats from every side.
-		Kingdom of Vontsira collapses, is replaced by 2nd Kingdom of Vontsira. (Dynastic cycle)
+		Kingdom of Vontsira collapses, is replaced by 2nd Kingdom of Vontsira. (Dynastic cycle, establishment of Constitutional Feudalism)
 			Maxinjani Revolts: Puppet government overthrown, Commonwealth of Maxinjan established.
 			Ukhombi-Vontsiri War: Naval skirmishes between Ukhombi and Vontsiran ships. Ukhombia lend-leases to Chikopania and Maxinjan.
 		Imphisi-Ukhombi War: Major war between 2 powers of South Africa; Kingdom of Imphisia is annexed by the Republic of Ukhombia. Ukhombia consequently reforms itself to Obhejania.
@@ -443,13 +443,14 @@ Era of Industrialization
 			Dzunu is now the Khanate of Dzunu
 
 Era of Rivalry: Primary Timeframe of the Zootopia-Inurakun Rivalry
-	501 AGP: First Carrot Days Festival
-	504 AGP: The Zootopian Empire establishes a national institute of research hidden beneath Fort Sokanjik. On imperial orders, this research insitute involves researchers of all kinds in the same work facility. From this lab, will come countless technological marvels to change the future.
-	505 AGP: Due to anxiety about being surrounded by powerful countries, Vuk, Luvia, and Brendos create a defense pact with one another - the Haemusi Defence Pact
-	506 AGP: A mysterious explosion in remote northwestern areas of Kaviko wipes out a vast region of forest.
-	507 AGP: The Epatali Empire works to build a canal from Lago Cocibolca to the Pacific Ocean. Simultaneously, work is done to enlarge the San Juan River for commercial travel.
-	510 AGP: A book named "Tyler A. Swipes and his Electric Rifle." comes out, reimagining the classic tales of Robin Hood, but set in the future. Notably, the protagonist is depicted using a gun that shoots electricity. At the time, this is very much sci-fi - for now...
-	523 AGP: Marsupalk splits Banguia into North Banguia and South Banguia for administrative efficiency reasons.
+	
+501 AGP: First Carrot Days Festival
+504 AGP: The Zootopian Empire establishes a national institute of research hidden beneath Fort Sokanjik. On imperial orders, this research insitute involves researchers of all kinds in the same work facility. From this lab, will come countless technological marvels to change the future.
+505 AGP: Due to anxiety about being surrounded by powerful countries, Vuk, Luvia, and Brendos create a defense pact with one another - the Haemusi Defence Pact
+506 AGP: A mysterious explosion in remote northwestern areas of Kaviko wipes out a vast region of forest.
+507 AGP: The Epatali Empire works to build a canal from Lago Cocibolca to the Pacific Ocean. Simultaneously, work is done to enlarge the San Juan River for commercial travel.
+510 AGP: A book named "Tyler A. Swipes and his Electric Rifle." comes out, reimagining the classic tales of Robin Hood, but set in the future. Notably, the protagonist is depicted using a gun that shoots electricity. At the time, this is very much sci-fi - for now...
+523 AGP: Marsupalk splits Banguia into North Banguia and South Banguia for administrative efficiency reasons.
 
 538-544 AGP: History's Only Nuclear War
 	The Xiongmao Dynasty and the Empire of Marsupalk defeat the Inurakun Empire, with lend-lease from the Zootopian Empire.
@@ -549,7 +550,7 @@ European Instability:
 		The Free Cities of Pterip gains independence.
 			The Heptanian Islands League is a Pteripi vassal state.
 			The Military Tribunal of Morea is a Pteripi vassal state.
-		The Kaptaran Island League gains independence.
+		The Sortitist Island League of Kaptara gains independence.
 		The Parliamentary Kingdom of Martinoi gains independence.
 		Pterip, Kaptara, and Martinoi join the Haemusi Defence Pact.
 		The Sultanate of Chakaln has to release the Emirate of Rumel as a vassal.
@@ -563,7 +564,7 @@ European Instability:
 		Fuchsreh annexes Austria and Northern Croatia.
 	Elguri Revolts:
 		Islands in the Baltic Sea rebel, leading to the formation of the Rebello Merchant Republic, an Elguri vassal.
-		Leftover fascist sentiment that survived the Elguri War of Hate leads to revolts along the coast; a new nation primarily composed of nationalistic pirates is born. Named Varang, this nation of raiders is an enormous problem for the Gaditanus and Frerinn Oceans. They are considered terrorists by the rest of the world.
+		Leftover fascist sentiment that survived the Elguri Wars of Hate (538-544 AGP) leads to revolts along the coast; a new nation primarily composed of nationalistic pirates is born. Named Varang, this nation of raiders is an enormous problem for the Gaditanus and Frerinn Oceans. They are considered terrorists by the rest of the world.
 Middle Eastern Bloodshed:
 	Island rebellions forces Algharir to create the Sheikdom of Alghazal as a puppet state, but intimidation from the Sultanate of Jamalia force Algharir to be a vassal state to them in turn.
 	The Sultanate of Jamalia has to release the Sheikdom of Dilmun as a puppet state.
@@ -578,8 +579,8 @@ Xiongmao Reforms: Due to external economic factors and secular issues, the Xiong
 	Lingyang renames itself to the Serene Theocracy of Gcangzan. This country selects a llama of all mammals as a holy head of state, the Dalai Llama. State religion becomes Buddhism - a newly revived religion that emerged from underneath Confucianism.
 	Tighe releases a vassal of their own called Shugtang
 Vontsiran Influence Rises:
-	Kingdom of Mbalamo suffers internal issues. Stabilizes as Duchy of Mbalamo w/ assistance from Vontsira, becoming a vassal.
-	Kingdom of Sotrelo suffers internal issues. Stabilizes as Municipality of Sotrelo w/ assistance from Vontsira, becoming a vassal.
+	Kingdom of Mbalamo suffers internal issues. Stabilizes as the Duchy of Mbalamo w/ assistance from Vontsira, becoming a vassal thereof.
+	Kingdom of Sotrelo suffers internal issues. Stabilizes as the Principality of Sotrelo w/ assistance from Vontsira, becoming a vassal thereof.
 	Vontsira invades nearby random colonies. Area organized as Dominion of Manav, a Vontsiran puppet state.
 Great Pindorama War:
 	Despite economic issues, the Arauki Empire restabilizes itself, with reduced local autonomy in exchange for promises of economic prosperity. Every single vassal changes in status to being autonomous areas. However, it isn't a flawless series of reforms; Small rebellions are a constant fact of life due to the struggles of maintaining a massive jungle empire.
@@ -603,7 +604,7 @@ Great Pindorama War:
 		Pincoy has to release the Domain of South Pincoy as a vassal of Central Pincoy.
 		K'inia has to release the Windswept Ports of Xativa as a K'ini vassal state.
 	After releasing vassals, Pincoy terms itself Central Pincoy.
-	NOTE: Kasogonag suffers some of the most horrible casualties in this time, with the regime doing massive purges, scorched earth policies (leading to deadly famines), and eventually even herding the vast majority of the survivors into just ten cities where they are all checked for loyalty to the Cult. In all, during the 80s, about half of the population dies!
+	NOTE: Kasogonag suffers some of the most horrible casualties in this time, with the regime doing massive purges, scorched earth policies (leading to deadly famines, and eventually even herding the vast majority of the survivors into just ten cities where they are all checked for loyalty to the Cult. In all, during the 80s, about half of the population dies! This is by far the most horrible thing a government has done in history.
 Republic of Inuraku reforms into the Inurakun Technocracy.
 The 2nd Kingdom of Orsia, facing internal tensions, uses an external war to stabilize itself. This leads to the conquest of Qayura and Potskhveria.
 The 3rd Kingdom of Karhuim succesfully conquers Sakhalin.
@@ -699,11 +700,16 @@ Great Indian Wars:
 	Baghaean Revolution: the 2nd Kingdom has to reform into the United Jagirs of Baghae
 	Southern Harnie Revolts: Harnie has to release a vassal state - the Jagir of Sarhut
 579 AGP: Wilde Times closing down causes riots across Zootopia and its colonies due to its popularity as a symbol of freedom. Accusations of discrimination by the Imperial government against foxes abound.
-580 AGP: The Zootopian Collapse begins - armed revolts become normal, and the economy rapidly goes to shit.
+580 AGP: The Zootopian Collapse begins - armed revolts become normal, and the global economy rapidly goes to shit as globalization collapses entirely frrom war after war sprouting up all over the world.
 581 AGP: Scheduled demolition of Wilde Times is forgotten due to the War.
 581 AGP: Vassals in North America are freed. The alliance declares war, actively aiding the rebels. This war is now spread from sea to sea, and from the southern Carribean to the coldest wastes of Canada.
 	Bishei regains its share of power over Qwestan.
 	Cese'eihia regains its share of power over the Empire of the Mountains.
+	A massive air power campaign begins, along with a navy campaign stretching across half the northern Gaditanus Ocean.
+582 AGP: Even as the entire planet is at the moment engulfed in the flames of countless regional and continental wars, the Collapse War of the Zootopian Empire continues. The Coalition is gaining the upper paw in the air.
+583 AGP: OPERATION AREVO MANGLE: One of the most daring military operations in history; involves the Coalition assembling a carrier strike group that has many regular navy vessels as armed escorts. The tactics involve using the destroyers and frigates and such to form a defensive wall once the strike group reaches 500 miles from Buccaneer's Rest. From there, fighter planes from the carrier strike group escort a wing of bombers to the port, protecting the bombers from fighter jets controlled by the Zootopian Empire. The bombers themselves unleash tons after tons of explosives all over the harbor at Buccaneer's Rest, destroying as much navy infrastructure as possible and as many ships as possible over many waves of bombing attacks.
+The operation is a massive success; the naval capabilities of Buccaneer's Rest have been destroyed for the rest of the war, and the Empire's navy has been critically hobbled.
+584 AGP: By this point, the navy of the Zootopian Empire is on the bottom of the Gaditanus Ocean. The Blockade begins, and will last until the end of the war.
 584 AGP: Seccesionist rebels succeed, thereby liberating the following countries: 
 	Republic of Woapinki
 	Republic of South Nigig
@@ -730,7 +736,7 @@ Great Indian Wars:
 	The Wabigoni League is formed as a vassal of the Republic of Wapitia.
 586 AGP: By this point, a massive naval blockade from the Hudson River to Newfoundland. It takes this long to establish due to there being thousands of miles of coastline to blockade.
 587 AGP: After 7 years of war trying to bring down a highly militarized Zootopian Empire, the rebels finally succeed in conquering the Zootopian Heartland. Then, the Republic of Zoohaven is reestablished as the Republic of Zootopia (with government changes).
-	This really only happens because the capital (at Anticosti Island) gets starved out by the blockade, and because Lower Triburrow (basically the areas near the St. Lawrence River) gets conquered in the Battle of Onon'Kana.
+	This really only happens because Nishtaku gets starved out by the blockade, and because Lower Triburrow (basically the areas near the St. Lawrence River) gets conquered in the Battle of Onon'Kana.
 Treaty of Namohsohke: The Republic of Zoohaven is to be restored as the Republic of Zootopia after 3 years of military 	occupation. The four westernmost provinces are split off into a vassal state known as the Zootopian Realm of Makwa. All firearms and explosives are banned from civilian paws by the treaty. This ban is initially enforced by the aforementioned occupation. The Republic is not allowed to have more than 100k troops. No war reparations, as it is not possible for a rump state devastated by seven years of war to pay them. All Zootopian nuclear warheads are to be dismantled by the troops during the occupation.
 	End-of-Nukes Treaty: With no major threats on the world stage, every power in the world dismantles their nukes. Nuclear weapons technology is left in the past for good with a global ban.
 

@@ -380,7 +380,7 @@ Era of Industrialization
 		The Sultante of Pazanu gains independence
 	Melrakk colonizes Southern Greenland. This is done so as to prevent Iceland from being surrounded by foreign naval powers.
 		Jan Mayen is also colonized as a scientific outpost. Due to general uselessness, there is little to no permanent population here.
-	Inurakun Wars of Aggression: The Kingdom of Inuraku suffers a coup, thus becoming the fascist Inurakun Empire. Inuraku starts conquering the Pacific, including the Hameni Empire. Hameni colonies become Inurakun colonies.
+	Inurakun Wars of Aggression: The Kingdom of Inuraku suffers a coup, thus becoming the fascist Inurakuni Empire. Inuraku starts conquering the Pacific, including the Hameni Empire. Hameni colonies become Inurakun colonies.
 		497 AGP: The Kingdom of Saseum is annexed by Inuraku. The Yetu and Milu Realms are conquered away from the Xiongmao Dynasty.
 			The loss of the Yetu and Milu Realms are a justification for the 50 Years War from 497 to 545 - a brutal multi-generational series of conflicts between Xiongmao and Inuraku (similar to the Hundred Years War between England and France). Features a frankly absurd number of civil wars within Xiongmao.
 		498 AGP: Rapid colonization of Sakhalin, Kamchatka, and nearby coasts forms the Domain of Inurakun Yegun.
@@ -453,7 +453,7 @@ Era of Rivalry: Primary Timeframe of the Zootopia-Inurakun Rivalry
 523 AGP: Marsupalk splits Banguia into North Banguia and South Banguia for administrative efficiency reasons.
 
 538-544 AGP: History's Only Nuclear War
-	The Xiongmao Dynasty and the Empire of Marsupalk defeat the Inurakun Empire, with lend-lease from the Zootopian Empire.
+	The Xiongmao Dynasty and the Empire of Marsupalk defeat the Inurakuni Empire, with lend-lease from the Zootopian Empire.
 		Part of ending the war is dropping the world's first ever atomic bomb on Inuraku's capital, courtesy of Marsupalk.
 			This launches the world into a new age where nuclear technology is very important. 
 		Republic of Inuraku established over main islands of Japan.
@@ -566,12 +566,13 @@ European Instability:
 		Islands in the Baltic Sea rebel, leading to the formation of the Rebello Merchant Republic, an Elguri vassal.
 		Leftover fascist sentiment that survived the Elguri Wars of Hate (538-544 AGP) leads to revolts along the coast; a new nation primarily composed of nationalistic pirates is born. Named Varang, this nation of raiders is an enormous problem for the Gaditanus and Frerinn Oceans. They are considered terrorists by the rest of the world.
 Middle Eastern Bloodshed:
-	Island rebellions forces Algharir to create the Sheikdom of Alghazal as a puppet state, but intimidation from the Sultanate of Jamalia force Algharir to be a vassal state to them in turn.
+	Island rebellions forces Algharir to create the Sheikdom of Alghazal as a puppet state, while intimidation from the Sultanate of Jamalia force Algharir to be a vassal state to them in turn.
 	The Sultanate of Jamalia has to release the Sheikdom of Dilmun as a puppet state.
-	The Sultanate of Jamalia loses a war to the Sultanate of Pazanu, who gains the Satrap of Sawad as a vassal.
+	The Sultanate of Jamalia loses a war to the Sultanate of Pazanu, who gains the Satrap of Sawad as a vassal. This leads to a coup, which leads to the Jamali Caliphate being established with Shariah as the law code!
 	The Sultanate of Pazanu gains territory in the north against the Emirate of Arkalo, who is broken into 2 smaller Pazani vassals - the Satrap of Kaftar, and the Satrap of Shghalu
 	War exhaustion revolts force the Sultanate of Pazanu to release the Satrap of Khaghtik, the Satrap of Jarun, the Satrap of Pamisos, and the Satrap of Urartu as vassals.
-	Due to having so many vassals, Pazanu rebrands itself the Caliphate of Pazanu, complete with the head of state's title being "Shahanshah, Caliph of Islam"
+	Due to having so many vassals, Pazanu rebrands itself the Pazanu Empire, complete with the head of state's title being "Shahanshah"
+		Thanks to Islam never having been that prevalent, the new Shahanshah makes the Empire secular, though Islam, Zoroastrianism, and Hinduism are the informal big three faiths of the Empire.
 Izemik suppresses a rebellion but it is widespread enough to inspire reforms lest a revolution break out. This turns Izemik into the Republic of Izemik, a constitutional monarchy. Investigations reveal that Admuia may have something to do with the situation.
 Xiongmao Reforms: Due to external economic factors and secular issues, the Xiongmao Dynasty does a partial collapse; Multiple states are released throughout the region - some are vassals, but Lingyang, Tighe and Ma get to be independent kingdoms.
 	Ma and Lingyang even get to have vassals of their own! Lingyang's vassal is named Shanyang, and Ma's vassal is named Xuebao.
@@ -604,7 +605,7 @@ Great Pindorama War:
 		Pincoy has to release the Domain of South Pincoy as a vassal of Central Pincoy.
 		K'inia has to release the Windswept Ports of Xativa as a K'ini vassal state.
 	After releasing vassals, Pincoy terms itself Central Pincoy.
-	NOTE: Kasogonag suffers some of the most horrible casualties in this time, with the regime doing massive purges, scorched earth policies (leading to deadly famines, and eventually even herding the vast majority of the survivors into just ten cities where they are all checked for loyalty to the Cult. In all, during the 80s, about half of the population dies! This is by far the most horrible thing a government has done in history.
+	NOTE: Kasogonag suffers some of the most horrible casualties in this time, with the regime doing massive purges, scorched earth policies (leading to deadly famines, and eventually even herding the vast majority of the survivors into just eleven cities where they are all checked for loyalty to the Cult. In all, during the 80s, about half of the population dies! This is by far the most horrible thing a government has done in history.
 Republic of Inuraku reforms into the Inurakun Technocracy.
 The 2nd Kingdom of Orsia, facing internal tensions, uses an external war to stabilize itself. This leads to the conquest of Qayura and Potskhveria.
 The 3rd Kingdom of Karhuim succesfully conquers Sakhalin.

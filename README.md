@@ -17,4 +17,4 @@ timeline.txt: Text document detailing over 600 years of geopolitical history. Ha
 
 README.md: You're looking at it right now. Self-explanatory.
 
-Nations: Within this folder is a folder for flags for 11 nations so far.
+Nations: Within this folder is a folder for flags for 28 nations so far (9.72% done). There is also a folder for internal maps, which currently only has a map for the Burrows of the Republic of Zootopia at this time.
